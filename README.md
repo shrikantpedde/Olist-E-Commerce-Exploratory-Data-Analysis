@@ -110,19 +110,19 @@ Three tables were used and merged on common keys:
 
 | Orders per Year | Top 10 States by Orders |
 |:---:|:---:|
-| ![Orders per year](images/01_orders_per_year.png) | ![Top states](images/02_top_states_orders.png) |
+| ![Orders per year](Images/01_orders_per_year.png) | ![Top states](Images/02_top_states_orders.png) |
 
 | Payment Type Share | Monthly Revenue Trend |
 |:---:|:---:|
-| ![Payment share](images/03_payment_type_share.png) | ![Monthly revenue](images/04_monthly_revenue_trend.png) |
+| ![Payment share](Images/03_payment_type_share.png) | ![Monthly revenue](Images/04_monthly_revenue_trend.png) |
 
 | Average Delivery Time by State | Late Delivery % by State |
 |:---:|:---:|
-| ![Delivery time](images/05_delivery_time_by_state.png) | ![Late delivery](images/06_late_delivery_by_state.png) |
+| ![Delivery time](Images/05_delivery_time_by_state.png) | ![Late delivery](Images/06_late_delivery_by_state.png) |
 
 | Correlation Heatmap | Orders by Day and Hour |
 |:---:|:---:|
-| ![Correlation](images/07_correlation_heatmap.png) | ![Day vs hour](images/08_orders_day_vs_hour.png) |
+| ![Correlation](Images/07_correlation_heatmap.png) | ![Day vs hour](Images/08_orders_day_vs_hour.png) |
 
 ---
 
@@ -147,7 +147,7 @@ Olist-E-Commerce-Exploratory-Data-Analysis/
 ├── olist_customers_dataset.csv               # Raw data
 ├── olist_orders_dataset.csv                  # Raw data
 ├── olist_order_payments_dataset.csv          # Raw data
-├── images/                                   # Charts used in this README
+├── Images/                                   # Charts used in this README
 └── README.md
 ```
 ## 👤 Author
